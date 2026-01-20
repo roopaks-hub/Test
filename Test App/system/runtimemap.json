@@ -147,10 +147,33 @@
   "Access Control": {
     "Roles": {
       "x_nsllc_test_app.user": {
-        "sys_id": "6af72c3d1bee3a107e07a711604bcbec"
+        "sys_id": "6af72c3d1bee3a107e07a711604bcbec",
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_LOCAL_MOD_TIME": 1768915135087,
+        "CURRENT_SERVER_MOD_TIME": 1768894328000
       },
       "x_nsllc_test_app.admin": {
-        "sys_id": "a6f72c3d1bee3a107e07a711604bcbd3"
+        "sys_id": "a6f72c3d1bee3a107e07a711604bcbd3",
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_LOCAL_MOD_TIME": 1768915135087,
+        "CURRENT_SERVER_MOD_TIME": 1768894328000
+      }
+    }
+  },
+  "Server Development": {
+    "Business Rules": {
+      "Roopa Test": {
+        "sys_id": "7dacacf11b227a107e07a711604bcbc6",
+        "LIVE": true,
+        "UNCHANGED": true,
+        "CURRENT_SERVER_MOD_TIME": 1768895959000,
+        "sys_updated_on": "2026-01-20 13:29:19",
+        "SERVER_MOD_TIME": 1768895959000,
+        "LOCAL_MOD_TIME": 1768915674515,
+        "CURRENT_LOCAL_MOD_TIME": 1768915674515,
+        "lastmodified": 1768915759563
       }
     }
   }
