@@ -1,1 +1,30 @@
-{}
+{
+  "Client Development": {
+    "Client Scripts": {
+      "Upgrade Metric Duration Message": {
+        "sys_id": "20dcbf325b221010e4468f5c11f91ad7",
+        "SYS_PACKAGE": "99beffe54733011082e7e10e436d438c",
+        "packageName": "Upgrade Center",
+        "scopeId": "global",
+        "scopeName": "Global",
+        "scopeValue": "global",
+        "SERVER_MOD_TIME": 1597800213000,
+        "CURRENT_SERVER_MOD_TIME": 1597800213000,
+        "CURRENT_LOCAL_MOD_TIME": 1768920276902,
+        "LOCAL_MOD_TIME": 1768920276902
+      },
+      "Validate Visible To Customer": {
+        "sys_id": "00231a30878b0010f734a7da0acb0b5d",
+        "SYS_PACKAGE": "51d811fad7223100b7490ee60e61034f",
+        "packageName": "Customer Service",
+        "scopeId": "51d811fad7223100b7490ee60e61034f",
+        "scopeName": "Customer Service",
+        "scopeValue": "sn_customerservice",
+        "SERVER_MOD_TIME": 1581825910000,
+        "CURRENT_SERVER_MOD_TIME": 1581825910000,
+        "CURRENT_LOCAL_MOD_TIME": 1768920277020,
+        "LOCAL_MOD_TIME": 1768920277020
+      }
+    }
+  }
+}
